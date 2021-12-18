@@ -16,7 +16,7 @@
 
 ### Quick Information
 - **website**: soon replacing [devim.com.br](https://www.devim.com.br) for on personal
-- **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Instagram](https://www.instagram.com/miguelsmuller/) | [@Behance](https://www.behance.net/miguelsmuller) | [@WordPress](https://profiles.wordpress.org/miguelmuller/)
+- **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Instagram](https://www.instagram.com/miguelsmuller/) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
 - **company**:
     - **name**: Prefeitura Municipal de Rio Claro - RJ
     - **position**: IT Support and everything else
