@@ -1,9 +1,6 @@
 ### Goals
 - :dart: Migrating from Support to Development
 
-### Project
-- :trophy: I'm going to revive some discontinued projects
-
 ### Some Curiosities
 - :office: I'm currently a public employee and work with support at the Prefeitura Municipal de Rio Claro / Rio de Janeiro.
 - :dancers: I’m looking to collaborate on some cool project that has an impact.
@@ -16,19 +13,17 @@
 
 ### Quick Information
 - **website**: soon replacing [devim.com.br](https://www.devim.com.br) for on personal
-- **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Instagram](https://www.instagram.com/miguelsmuller/) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
+- **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
 - **company**:
     - **name**: Prefeitura Municipal de Rio Claro - RJ
     - **position**: IT Support and everything else
     - **website**: [rioclaro.rj.gov.br](https://rioclaro.rj.gov.br/)
     - **social**: [@Facebook](https://www.facebook.com/prefeituraderioclarorj) | [@Instagram](https://www.instagram.com/prefeituraderioclarorj/)
-- **college**:
-    - **name**: UFF - Universidade Federal Fluminense
-    - **course**: Sistemas de Computação
+- **graduation**:
+    - Sistemas de Computação | UFF - Universidade Federal Fluminense
     - **website**: [ic.uff.br](http://www.ic.uff.br/)
     - **social**: [@Facebook](https://www.facebook.com/informeic) | [@Instagram](https://www.instagram.com/computacao_uff/)
 - **technical**:
-    - **name**: ETPC - Escola Técnica Pandiá Calógeras
-    - **course**: Informática
+    - Técnico em Informática | ETPC - Escola Técnica Pandiá Calógeras
     - **website**: [etpc.com.br](https://etpc.com.br/)
     - **social**: [@Facebook](https://www.facebook.com/ETPCVR/) | [@Instagram](https://www.instagram.com/ETPCVR/)
