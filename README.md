@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
 
 ### Quick Information
-- **website**: soon replacing [devim.com.br](https://www.devim.com.br) for on personal
+- **website**: [miguelsmuller.dev.br](https://www.miguelsmuller.dev.br)
 - **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
 - **company**:
     - **name**: Prefeitura Municipal de Rio Claro - RJ
