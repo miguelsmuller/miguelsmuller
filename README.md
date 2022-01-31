@@ -12,6 +12,8 @@
 ![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
 
 ### Quick Information
+<a href="https://app.daily.dev/miguelsmuller"><img src="https://github.com/miguelsmuller/miguelsmuller/blob/master/devcard.svg" align="right" width="300" alt="Miguel Müller's Dev Card"/></a>
+
 - **website**: [miguelsmuller.dev.br](https://www.miguelsmuller.dev.br)
 - **social**: [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
 - **company**:
