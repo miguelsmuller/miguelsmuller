@@ -3,12 +3,11 @@
 <br/>
 
 ## :zap: Quick Information
-- **[www.miguelsmuller.dev.br](https://www.miguelsmuller.dev.br)**
-- [@Linkedin](https://www.linkedin.com/in/miguelsmuller) | [@Github](https://github.com/miguelsmuller) | [@Twitter](https://twitter.com/miguelsmuller) | [@Behance](https://www.behance.net/miguelsmuller) | [@HackerRank](https://www.hackerrank.com/miguelsmuller)
+- **<a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>**
+- <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a> | <a href="https://www.behance.net/miguelsmuller" target="_blank">@Behance</a> | <a href="https://www.hackerrank.com/miguelsmuller" target="_blank">@HackerRank</a>
 <br/>
 
 ## :speech_balloon: Some Curiosities
-- :office: I'm currently a public employee and work with support at the Prefeitura Municipal de Rio Claro / Rio de Janeiro.
 - :dancers: I’m looking to collaborate on some cool project that has an impact.
 - :ambulance: Fun fact, or not so much, I was unable to walk for a few years due to a car accident.
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
