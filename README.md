@@ -4,7 +4,7 @@
 
 ## :zap: Quick Information
 - **<a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>**
-- <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a> | <a href="https://www.behance.net/miguelsmuller" target="_blank">@Behance</a> | <a href="https://www.hackerrank.com/miguelsmuller" target="_blank">@HackerRank</a>
+- <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a> | <a href="https://www.behance.net/miguelsmuller" target="_blank">@Behance</a> | <a href="https://www.coursera.org/user/f06413d61e73be11888354a244ea15ea" target="_blank">@Coursera</a>
 <br/>
 
 ## :speech_balloon: Some Curiosities
