@@ -11,6 +11,7 @@
 - :dancers: I’m looking to collaborate on some cool project that has an impact.
 - :ambulance: Fun fact, or not so much, I was unable to walk for a few years due to a car accident.
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
+- :heart_eyes: Love Codes; Loves Technologies; Love Processes; Loves Interfaces and Loves Business.
 <br/>
 
 ## :1st_place_medal: Github Stats
