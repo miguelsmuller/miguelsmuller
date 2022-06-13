@@ -10,6 +10,12 @@
 - :heart_eyes: Love Codes; Loves Technologies; Love Processes; Loves Interfaces and Loves Business.
 <br/>
 
+## :man_technologist: Company
+- **IT Support and everything else**
+- At **[Globo](https://www.globo.com/)**
+- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
+<br/>
+
 ## :man_student: Academic
 - **Graduation**:
     - **Sistemas de Computação** 
@@ -19,12 +25,6 @@
     - **Técnico em Informática com Ênfase em Desenvolvimento de Sistemas**
     - **At [ETPC - Escola Técnica Pandiá Calógeras](https://etpc.com.br/)**
     - [@Facebook](https://www.facebook.com/ETPCVR/) | [@Instagram](https://www.instagram.com/ETPCVR/)
-<br/>
-
-## :man_technologist: Company
-- **IT Support and everything else**
-- At **[Globo](https://www.globo.com/)**
-- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
 <br/>
 
 ## :1st_place_medal: Github Stats
