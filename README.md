@@ -1,7 +1,3 @@
-## :dart: Goals
-### **Migrating to Development from Support**
-<br/>
-
 ## :zap: Quick Information
 - <a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>
 - <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a> | <a href="https://www.coursera.org/user/f06413d61e73be11888354a244ea15ea" target="_blank">@Coursera</a>
@@ -12,11 +8,6 @@
 - :ambulance: Fun fact, or not so much, I was unable to walk for a few years due to a car accident.
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
 - :heart_eyes: Love Codes; Loves Technologies; Love Processes; Loves Interfaces and Loves Business.
-<br/>
-
-## :1st_place_medal: Github Stats
-![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
 <br/>
 
 ## :man_student: Academic
@@ -32,5 +23,11 @@
 
 ## :man_technologist: Company
 - **IT Support and everything else**
-- At **[Prefeitura Municipal de Rio Claro - RJ](https://rioclaro.rj.gov.br/)**
-- [@Facebook](https://www.facebook.com/prefeituraderioclarorj) | [@Instagram](https://www.instagram.com/prefeituraderioclarorj/)
+- At **[Globo](https://www.globo.com/)**
+- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
+<br/>
+
+## :1st_place_medal: Github Stats
+![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
+<br/>
