@@ -1,6 +1,6 @@
 ## :zap: Quick Information
 - <a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>
-- <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a> | <a href="https://www.coursera.org/user/f06413d61e73be11888354a244ea15ea" target="_blank">@Coursera</a>
+- <a href="https://www.linkedin.com/in/miguelsmuller" target="_blank">@Linkedin</a> | <a href="https://github.com/miguelsmuller" target="_blank">@Github</a> | <a href="https://twitter.com/miguelsmuller" target="_blank">@Twitter</a>
 <br/>
 
 ## :speech_balloon: Some Curiosities
@@ -11,7 +11,7 @@
 <br/>
 
 ## :man_technologist: Company
-- **IT Support and everything else**
+- **Desenvolvedor - Big Data & AI**
 - At **[Globo](https://www.globo.com/)**
 - [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
 <br/>
