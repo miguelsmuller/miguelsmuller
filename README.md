@@ -12,7 +12,7 @@
 
 ## :man_technologist: Company
 - **Desenvolvedor - Big Data & AI**
-- At **[Globo](https://www.globo.com/)**
+- At **[Globo Comunicação e Participações](https://www.globo.com/)**
 - [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
 <br/>
 
