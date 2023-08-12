@@ -1,11 +1,11 @@
 ## :zap: Quick Information
-My journey in the field of development and technology began early. The pursuit of continuous learning is a core value for me as a means to enhance my professional career.
+My journey in the field of development and technology began early. The pursuit of continuous learning is a fundamental value for me, serving as a means to enhance my professional career.
 
-As a Software Engineer, I aim to expand my technical competencies across various key areas. My skills encompass software architecture, software development, testing, version control, NLP, Semantic Web, Knowledge Graphs, Machine Learning, and the creation/orchestration of containers using Docker and Kubernetes. Additionally, I possess experience in SPARQL, RDF, software development, software engineering, software architecture, NLP, Semantic Web, API development, Infrastructure as Code (IaC), Terraform, Kubernetes, REST API, Full-Stack Development, back-end development, web development, Docker, Knowledge Graphs, Elasticsearch, BigData, Git, Google Cloud Platform (GCP), Python, Java, and teamwork.
+As a Software Engineer, I strive to enhance my technical competencies across various key areas. My skills encompass Software Development (Python, Java, and others), Software Engineering, Software Architecture, testing, version control using git, NLP, Machine Learning, Semantic Web, SPARQL, RDF, Knowledge Graphs, Infrastructure as Code (IaC), creation/orchestration of containers using Docker and Kubernetes, CI/CD, Elasticsearch, BigData, Google Cloud Platform (GCP), and extensive teamwork.
 
-I have also worked as a Freelance Website Developer, collaborating on various projects using a range of technologies such as MySQL, PostgreSQL, MongoDB, JavaScript, TypeScript, Node.js, PHP, Angular, React.js, Laravel, WordPress, and DevOps.
+I have also worked as a Freelance Website Developer on various projects, working with a range of technologies including MySQL, PostgreSQL, MongoDB, JavaScript, TypeScript, Node.js, PHP, Angular, React.js, Laravel, WordPress.
 
-I deeply believe that technology has the power to positively impact the world. I am committed to crafting innovative and scalable solutions that meet the highest standards of quality. My goal is to contribute to projects that make a real impact, delivering quality code while maintaining consistent communication and collaboration within the team.
+I profoundly believe that technology has the power to positively impact the world. I am committed to creating innovative and scalable solutions that meet the highest quality standards. My goal is to contribute to projects that make a tangible impact, delivering quality code while maintaining consistent communication and collaboration with the team.
 
 <a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>
 
