@@ -1,5 +1,5 @@
 ## :zap: Quick Information
-My journey in the field of development and technology began early. The pursuit of continuous learning is a fundamental value for me, serving as a means to enhance my professional career.
+My journey in the field of development and technology began early. At the age of 11, I was already taking my first steps in programming. By 15, I was taking technical courses, and at 18, I started doing freelance work and building systems for fun. At 26, I moved away from programming and ventured into user support and maintenance roles. At 30, I returned to studying and re-entered the development field. The pursuit of constant learning is a core value for me as a way to enhance my professional career.
 
 As a Software Engineer, I strive to enhance my technical competencies across various key areas. My skills encompass Software Development (Python, Java, and others), Software Engineering, Software Architecture, testing, version control using git, NLP, Machine Learning, Semantic Web, SPARQL, RDF, Knowledge Graphs, Infrastructure as Code (IaC), creation/orchestration of containers using Docker and Kubernetes, CI/CD, Elasticsearch, BigData, Google Cloud Platform (GCP), and extensive teamwork.
 
