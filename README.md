@@ -7,6 +7,8 @@ I have also worked as a Freelance Website Developer on various projects, working
 
 I profoundly believe that technology has the power to positively impact the world. I am committed to creating innovative and scalable solutions that meet the highest quality standards. My goal is to contribute to projects that make a tangible impact, delivering quality code while maintaining consistent communication and collaboration with the team.
 
+I am proudly one of the founding members of Grupy Sul Fluminense, a community dedicated to strengthening and spreading Python knowledge in the South Fluminense region.
+
 **<a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>**
 
 <p align="left">
