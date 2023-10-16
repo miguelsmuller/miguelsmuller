@@ -41,9 +41,9 @@ I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated
 <br/>
 
 ## :man_technologist: Current Employer
-- **Backend Developer** in the **Data & AI** department at **Globo.com**
-- **[Globo Comunicação e Participações](https://www.globo.com/)**
-- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
+- 
+- 
+- 
 <br/>
 
 ## :man_student: Academic
