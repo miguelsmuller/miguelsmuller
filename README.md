@@ -27,11 +27,10 @@ I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated
 </p>
 <br/>
 
-
-## :man_technologist: Current Employer
-- **Backend Developer** in the **Data & AI** department at **Globo.com**
-- **[Globo Comunicação e Participações](https://www.globo.com/)**
-- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
+## :1st_place_medal: Github Stats
+![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
+<br/>
 <br/>
 
 ## :speech_balloon: Some Curiosities
@@ -39,6 +38,12 @@ I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated
 - :ambulance: Fun fact, or not so much, I was unable to walk for a few years due to a car accident.
 - :heart_eyes: Love Codes; Loves Technologies; Love Processes; Loves Interfaces and Loves Business.
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
+<br/>
+
+## :man_technologist: Current Employer
+- **Backend Developer** in the **Data & AI** department at **Globo.com**
+- **[Globo Comunicação e Participações](https://www.globo.com/)**
+- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
 <br/>
 
 ## :man_student: Academic
@@ -50,9 +55,4 @@ I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated
     - **Técnico em Informática com ênfase em Desenvolvimento de Sistemas**
     - **At [ETPC - Escola Técnica Pandiá Calógeras](https://etpc.com.br/)**
     - [@Facebook](https://www.facebook.com/ETPCVR/) | [@Instagram](https://www.instagram.com/ETPCVR/)
-<br/>
 
-## :1st_place_medal: Github Stats
-![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
-<br/>
