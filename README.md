@@ -40,12 +40,6 @@ I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
 <br/>
 
-## :man_technologist: Current Employer
-- 
-- 
-- 
-<br/>
-
 ## :man_student: Academic
 - **Graduation**:
     - **Sistemas de Computação** 
