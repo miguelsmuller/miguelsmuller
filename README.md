@@ -1,44 +1,27 @@
 ## :zap: Quick Information
-My journey in the field of development and technology began early. At the age of 11, I was already taking my first steps in programming. By 15, I was taking technical courses, and at 18, I started doing freelance work and building systems for fun. At 26, I moved away from programming and ventured into user support and maintenance roles. At 30, I returned to studying and re-entered the development field. The pursuit of constant learning is a core value for me as a way to enhance my professional career.
+My journey in the field of development and technology began early. At the age of 11, I was already taking my first steps in programming. By 15, I was taking technical courses, and by 18, I started doing freelance work and building systems for fun.
 
-As a Software Engineer, I strive to enhance my technical competencies across various key areas. My skills encompass Software Development (Python, Java, and others), Software Engineering, Software Architecture, testing, version control using git, NLP, Machine Learning, Semantic Web, SPARQL, RDF, Knowledge Graphs, Infrastructure as Code (IaC), creation/orchestration of containers using Docker and Kubernetes, CI/CD, Elasticsearch, BigData, Google Cloud Platform (GCP), and extensive teamwork.
+As a Software Engineer, I strive to enhance my technical skills in various key areas. My software development skills encompass the use of languages such as Python and Java. Furthermore, I have extensive knowledge in software engineering, system architecture, and solid programming practices, including Clean Code, Clean Architecture, SOLID principles, and Design Patterns. I am also familiar with DevOps, including CI/CD, Containerization, and other related practices.
 
-I have also worked as a Freelance Website Developer on various projects, working with a range of technologies including MySQL, PostgreSQL, MongoDB, JavaScript, TypeScript, Node.js, PHP, Angular, React.js, Laravel, WordPress.
+I also have knowledge in testing, version control (Git, GitHub, and GitLab), messaging/stream (ActiveMQ, Kafka, RabbitMQ, and GCP Pub/Sub), ElasticSearch, Redis, application monitoring, Cloud Computing, natural language processing (NLP), machine learning (Machine Learning), semantic web, SPARQL, RDF, and Knowledge Graphs.
 
-I profoundly believe that technology has the power to positively impact the world. I am committed to creating innovative and scalable solutions that meet the highest quality standards. My goal is to contribute to projects that make a tangible impact, delivering quality code while maintaining consistent communication and collaboration with the team.
+Previously, I worked as a website developer on freelance projects, using various technologies such as JavaScript, TypeScript, Node.js, Angular, React.js, MySQL, PostgreSQL, MongoDB, PHP, Laravel, and WordPress.
 
-I am proudly a founding volunteer of Grupy Sul Fluminense, a community dedicated to strengthening and spreading Python knowledge in the Sul Fluminense region.
+I deeply believe that technology has the power to positively impact the world. My goal is to contribute to projects that have a tangible impact by delivering quality code while maintaining consistent communication and collaboration with the team.
 
-**Visit my website: <a href="https://www.miguelsmuller.dev.br" target="_blank">www.miguelsmuller.dev.br</a>**
+Proudly, I am a founding volunteer of the **[Grupy Sul Fluminense](https://linktr.ee/grupysf)**, a community dedicated to strengthening and spreading Python knowledge in the Southern Fluminense Region of Rio de Janeiro.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/miguelsmuller/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/miguelsmuller/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://twitter.com/miguelsmuller" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
-    </a>
-    <a href="https://dev.to/miguelsmuller" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-%0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
-    </a>
-</p>
-<br/>
+[![portfolio](https://img.shields.io/badge/meu_site_pessoal-a6352f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![instagram](https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/) [![dev.to](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://twitter.com/)
 
 ## :1st_place_medal: Github Stats
 ![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/miguelsmuller/github-stats-transparent/output/generated/languages.svg)
-<br/>
-<br/>
 
 ## :speech_balloon: Some Curiosities
 - :dancers: I’m looking to collaborate on some cool project that has an impact.
 - :ambulance: Fun fact, or not so much, I was unable to walk for a few years due to a car accident.
 - :heart_eyes: Love Codes; Loves Technologies; Love Processes; Loves Interfaces and Loves Business.
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
-<br/>
 
 ## :man_student: Academic
 - **Graduation**:
