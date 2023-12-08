@@ -29,7 +29,7 @@ Proudly, I am a founding volunteer of the **[Grupy Sul Fluminense](https://linkt
     - **At [UFF - Universidade Federal Fluminense](http://www.ic.uff.br/)**
     - [@Facebook](https://www.facebook.com/informeic) | [@Instagram](https://www.instagram.com/computacao_uff/)
 - **Technical**:
-    - **Técnico em Informática com ênfase em Desenvolvimento de Sistemas**
+    - **Técnico em Informática com Ênfase em Desenvolvimento**
     - **At [ETPC - Escola Técnica Pandiá Calógeras](https://etpc.com.br/)**
     - [@Facebook](https://www.facebook.com/ETPCVR/) | [@Instagram](https://www.instagram.com/ETPCVR/)
 
