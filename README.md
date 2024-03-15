@@ -24,6 +24,10 @@ Proudly, I am a founding volunteer of the **[Grupy Sul Fluminense](https://linkt
 - :zap: And last but not least. I'm still waiting for something exciting to happen. 
 
 ## :man_student: Academic
+- **Postgraduate - Specialization**:
+    - **Engenharia de Software** 
+    - **At [PUC-MG - Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)**
+    - [@Facebook](https://www.facebook.com/pucminasvirtual) | [@Instagram](https://www.instagram.com/pucminas.virtual)
 - **Graduation**:
     - **Sistemas de Computação** 
     - **At [UFF - Universidade Federal Fluminense](http://www.ic.uff.br/)**
